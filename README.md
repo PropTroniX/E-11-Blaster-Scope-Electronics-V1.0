@@ -1,7 +1,17 @@
 ![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
 
 
-[TOC]
+------------
+
+##### *Table of Contents*
+- [Arduino E-11 Animated Blaster Scope](#arduino-e-11-animated-blaster-scope)
+- [Video of the Prototype](#video-of-the-prototype)
+- [Parts Required](#parts-required)
+- [Software Required](#software-required)
+- [Wiring Schematics](#wiring-schematics)
+- [Programming Instructions](#programming-instructions)
+- [Licence](#licence)
+- [Donation Button](#donation-button)
 
 ### Arduino E-11 Animated Blaster Scope
 
