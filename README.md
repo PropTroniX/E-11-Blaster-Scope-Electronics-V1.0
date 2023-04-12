@@ -1,6 +1,5 @@
 ![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
 
-[TOCM]
 
 [TOC]
 
