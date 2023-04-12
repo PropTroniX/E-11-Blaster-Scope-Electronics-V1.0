@@ -26,7 +26,7 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 1 x [Red Laser Dot Diode](https://proptronix.co.uk/arduino_components/leds/red-dot-laser-diode-led "Red Laser Dot Diode") - 650nm 6mm 3V-5V (Optional)
 
-1 x [0.49" OLED Display](https://proptronix.co.uk/arduino_components/oled_displays/0-49-oled-display "0.49" OLED Display") - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
+1 x[ 0.49 OLED Display](https://proptronix.co.uk/arduino_components/oled_displays/0-49-oled-display " 0.49 OLED Display") - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
 
 1 x [6mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6mm Tactile Momentary Switch") - 2 Pin SPDT Momentary Tactile Pushbutton Switch 6mm x 6mm x 5mm (Optional)
 
@@ -36,7 +36,7 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 1 x [3-Pin Micro JST Cable](https://proptronix.co.uk/other_components/connectors/micro-jst-1-25mm-m-f "3-Pin Micro JST Cable") - (Male & female) For Connecting Red Dot Laser Switch to DFRobot Beetle
 
-2 x [2-Pin Micro JST Cable](https://2-Pin Micro JST Cable "2-Pin Micro JST Cable") - (Male & female) For Connecting Red Dot Laser Diode to DFRobot Beetle & to supply 5V Power to the DFRobot Beetle
+2 x [2-Pin Micro JST Cable](https://proptronix.co.uk/other_components/connectors/micro-jst-1-25mm-m-f "3-Pin Micro JST Cable") - (Male & female) For Connecting Red Dot Laser Diode to DFRobot Beetle & to supply 5V Power to the DFRobot Beetle
 
 3 x [M2 Slotted Cheese Head Machine Screws](https://proptronix.co.uk/accessories/screws-nuts-and-bolts/e-11-scope-front-screws "M2 Slotted Cheese Head Machine Screws") - For the Front of the Scope
 
@@ -92,3 +92,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 ###  Thank You
 
 ## Donation Button [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C238MUXXGZZR2&source=url) Please feel free to doante a cup of coffee if you find this code useful. Thank You
+</mark>
