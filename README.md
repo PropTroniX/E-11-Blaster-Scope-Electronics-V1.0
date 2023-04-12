@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="https://galacticprops.co.uk/GitHub/github.css" />
-
 ![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
+
+[TOCM]
+
+[TOC]
 
 ### Arduino E-11 Animated Blaster Scope
 
@@ -91,6 +93,6 @@ You should now have a functioning Blaster Scope
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-###  Thank You
 
-### Donation Button [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
+### Donation Button
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
