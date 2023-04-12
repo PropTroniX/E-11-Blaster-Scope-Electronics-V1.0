@@ -26,7 +26,7 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 1 x [Red Laser Dot Diode](https://proptronix.co.uk/arduino_components/leds/red-dot-laser-diode-led "Red Laser Dot Diode") - 650nm 6mm 3V-5V (Optional)
 
-1 x[ 0.49 OLED Display](https://https://proptronix.co.uk/arduino_components/oled_displays/0-49-oled-display " 0.49 OLED Display") - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
+1 x[ 0.49 OLED Display](https://proptronix.co.uk/arduino_components/oled_displays/0-49-oled-display " 0.49 OLED Display") - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
 
 1 x [6mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6mm Tactile Momentary Switch") - 2 Pin SPDT Momentary Tactile Pushbutton Switch 6mm x 6mm x 5mm (Optional)
 
