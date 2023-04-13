@@ -104,4 +104,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 
 ### Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to donate a cup of coffee if you find this code useful. Thank You
