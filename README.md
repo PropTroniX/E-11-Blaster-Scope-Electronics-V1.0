@@ -1,5 +1,6 @@
 ![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
 
+
 ------------
 
 ##### *Table of Contents*
@@ -9,6 +10,7 @@
 - [Software Required](#software-required)
 - [Wiring Schematics](#wiring-schematics)
 - [Programming Instructions](#programming-instructions)
+- [3D Print STL Files](#3d-print-stl-files)
 - [Licence](#licence)
 - [Donation Button](#donation-button)
 
@@ -58,7 +60,7 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 All parts listed above are available from my Online Shop , eBay, Amazon or AliExpress.
 
-I also sell an updated [E-11 Blaster Scope Electronics ](https://proptronix.co.uk/prop-electronics/blaster-scope-electronics-kit "E-11 Blaster Scope Electronics ")as a Self Build Kit in my Shop. It has changable displays and improved code and also includes the specially designed STL Files for the Kit.
+I also sell an updated [E-11 Blaster Scope Electronics ](https://proptronix.co.uk/prop-electronics/blaster-scope-electronics-kit "E-11 Blaster Scope Electronics ")as a Self Build Kit in my Shop. It has changeable displays and improved code and also includes the specially designed STL Files for the Kit.
 
 ###  Software Required
 
@@ -72,7 +74,9 @@ Arduino Libraries Needed:
 - Adafruit GFX - Included in the Download
 - Adafruit SSD1306 - Included in the download and Pre-Set for 64x32 OLED Display
 
-The DFRobot Beetle uses the Arduino Leonardo board configuration Settings.
+SCTroniX V1.0 Arduino E-11 Scope Code:
+
+- Arduino_Blaster_Scope-V1.0.ino - Included in the Download
 
 ###  Wiring Schematics
 
@@ -80,11 +84,11 @@ The DFRobot Beetle uses the Arduino Leonardo board configuration Settings.
 
 ###  Programming Instructions
 
-1. Copy the Two Included Libraies (Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
+1. Copy the Two Included Libraries (Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 
-3. File Open and locate the Arduino-Blaster-Scope-V1.0 Dircectory and open the Load the Arduino_Blaster_Scope-V1.0.ino file.
+3. File Open and locate the Arduino-Blaster-Scope-V1.0 Directory and open the Load the Arduino_Blaster_Scope-V1.0.ino file.
 
 4. Under Tools Select Board then Arduino Leonardo
 
@@ -95,6 +99,11 @@ The DFRobot Beetle uses the Arduino Leonardo board configuration Settings.
 7. Upload the Arduino_Blaster_Scope-V1.0.ino code to the board
 
 You should now have a functioning Blaster Scope
+
+### 3D Print STL Files
+The download also includes a set of E-11 Blaster Scope 3D Printable STL Files. These are from the Free Files that are avaiable from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert. I re-designed the Scope so I could install the Electronics.
+
+![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_4.png)
 
 ###  Licence
 
