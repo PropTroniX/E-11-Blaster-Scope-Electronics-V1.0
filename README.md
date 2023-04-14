@@ -10,6 +10,7 @@
 - [Software Required](#software-required)
 - [Wiring Schematics](#wiring-schematics)
 - [Programming Instructions](#programming-instructions)
+- [3D Print STL Files](#3d-print-stl-files)
 - [Licence](#licence)
 - [Donation Button](#donation-button)
 
@@ -98,6 +99,11 @@ SCTroniX V1.0 Arduino E-11 Scope Code:
 7. Upload the Arduino_Blaster_Scope-V1.0.ino code to the board
 
 You should now have a functioning Blaster Scope
+
+### 3D Print STL Files
+The download also includes a set of E-11 Blaster Scope 3D Printable STL Files. These are from the Free Files that are avaiable from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert. I re-designed the Scope so I could install the Electronics.
+
+![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_4.png)
 
 ###  Licence
 
