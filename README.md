@@ -59,7 +59,7 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 All parts listed above are available from my Online Shop , eBay, Amazon or AliExpress.
 
-I also sell an updated [E-11 Blaster Scope Electronics ](https://proptronix.co.uk/prop-electronics/blaster-scope-electronics-kit "E-11 Blaster Scope Electronics ")as a Self Build Kit in my Shop. It has changable displays and improved code and also includes the specially designed STL Files for the Kit.
+I also sell an updated [E-11 Blaster Scope Electronics ](https://proptronix.co.uk/prop-electronics/blaster-scope-electronics-kit "E-11 Blaster Scope Electronics ")as a Self Build Kit in my Shop. It has changeable displays and improved code and also includes the specially designed STL Files for the Kit.
 
 ###  Software Required
 
@@ -83,11 +83,11 @@ SCTroniX V1.0 Arduino E-11 Scope Code:
 
 ###  Programming Instructions
 
-1. Copy the Two Included Libraies (Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
+1. Copy the Two Included Libraries (Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 
-3. File Open and locate the Arduino-Blaster-Scope-V1.0 Dircectory and open the Load the Arduino_Blaster_Scope-V1.0.ino file.
+3. File Open and locate the Arduino-Blaster-Scope-V1.0 Directory and open the Load the Arduino_Blaster_Scope-V1.0.ino file.
 
 4. Under Tools Select Board then Arduino Leonardo
 
@@ -106,4 +106,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 
 ### Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to donate a cup of coffee if you find this code useful. Thank You
