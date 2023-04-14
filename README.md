@@ -1,5 +1,6 @@
 ![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
 
+
 ------------
 
 ##### *Table of Contents*
@@ -72,7 +73,9 @@ Arduino Libraries Needed:
 - Adafruit GFX - Included in the Download
 - Adafruit SSD1306 - Included in the download and Pre-Set for 64x32 OLED Display
 
-The DFRobot Beetle uses the Arduino Leonardo board configuration Settings.
+SCTroniX V1.0 Arduino E-11 Scope Code:
+
+- Arduino_Blaster_Scope-V1.0.ino - Included in the Download
 
 ###  Wiring Schematics
 
@@ -103,4 +106,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 
 ### Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to donate a cup of coffee if you find this code useful. Thank You
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
