@@ -21,7 +21,7 @@ This is a very basic build just to add some functionality to your Star Wars Blas
 Easy to build with only minimal wiring required using cheap and readily available parts. 
 The 3D STL files to print the E-11 Blaster Scope to fit these electronics are included in the Download.
 
-If you looking for changeable Screen Displays on your Scope check out my E-11 Scope Kit V2.0 - [E-11 V2.0 Scope Kit](https://proptronix.co.uk/prop-electronics/e-11-v2-scope-add-on-kit "PropTroniX")
+If you looking for changeable Screen Displays on your Scope check out my - [E-11 V2.0 Scope Kit](https://proptronix.co.uk/prop-electronics/e-11-v2-scope-add-on-kit "PropTroniX")
 
 ![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_1.png)
 
