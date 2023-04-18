@@ -94,7 +94,7 @@ SCTroniX V1.0 Arduino E-11 Scope Code:
 
 4. Select Tools: Board: and Arduino Leonardo
 
-5. Select Tools: PORT: and Select the COM Port your DFRobot Beetle board is plugged in to.
+5. Select Tools: Port: and Select the COM Port your DFRobot Beetle board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 
