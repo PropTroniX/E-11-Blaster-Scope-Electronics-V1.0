@@ -1,4 +1,4 @@
-![](https://GalacticProps.co.uk/GitHub/GitHub_Logo.jpg)
+![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
 
 
 ------------
@@ -92,9 +92,9 @@ SCTroniX V1.0 Arduino E-11 Scope Code:
 
 3. File Open and locate the Arduino-Blaster-Scope-V1.0 Directory and open the Load the Arduino_Blaster_Scope-V1.0.ino file.
 
-4. Under Tools Select Board then Arduino Leonardo
+4. Select Tools: Board: and Arduino Leonardo
 
-5. Select Tools: PORT and Select the COM Port your DFRobot Beetle board is plugged in to.
+5. Select Tools: PORT: and Select the COM Port your DFRobot Beetle board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 
