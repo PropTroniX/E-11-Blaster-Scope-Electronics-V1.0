@@ -23,9 +23,9 @@ The 3D STL files to print the E-11 Blaster Scope to fit these electronics are in
 
 If you looking for changeable Screen Displays on your Scope check out my - [E-11 V2.0 Scope Kit](https://proptronix.co.uk/prop-electronics/e-11-v2-scope-add-on-kit "PropTroniX")
 
-![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_1.png)
+![](https://proptronix.co.uk/GitHub/Blaster_Scope/GitHub_Scope_1.png)
 
-![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_2.png)
+![](https://proptronix.co.uk/GitHub/Blaster_Scope/GitHub_Scope_2.png)
 
 ### Video of the Prototype
 
@@ -38,31 +38,30 @@ YouTube Video - [Star Wars E-11 Blaster Scope with Electronics](https://youtu.be
 
 1 x Set of 3D STLFiles  - For 3D Printing the E-11 Blaster Scope (Included FREE in the Download)
 
-1 x [DFRobot Beetle](https://proptronix.co.uk/arduino_components/microcontrollers/dfrobot-beetle "DFRobot Beetle") - ATmega32u4 V 16MHz Micro USB 
+1 x [DFRobot Beetle] - ATmega32u4 V 16MHz Micro USB 
 
-1 x [Red Laser Dot Diode](https://proptronix.co.uk/arduino_components/leds/red-dot-laser-diode-led "Red Laser Dot Diode") - 650nm 6mm 3V-5V (Optional)
+1 x [Red Laser Dot Diode] - 650nm 6mm 3V-5V (Optional)
 
-1 x[ 0.49 OLED Display](https://proptronix.co.uk/arduino_components/oled_displays/0-49-oled-display " 0.49 OLED Display") - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
+1 x[ 0.49 OLED Display] - White OLED Screen Module SSD1306 Drive IC 64 x 32 IIC Interface
 
-1 x [6mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6mm Tactile Momentary Switch") - 2 Pin SPDT Momentary Tactile Pushbutton Switch 6mm x 6mm x 5mm (Optional)
+1 x [6mm Tactile Momentary Switch] - 2 Pin SPDT Momentary Tactile Pushbutton Switch 6mm x 6mm x 5mm (Optional)
 
-1 x [10K Ω Resistor ](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "10K Ω Resistor ")- 1/4W 5% Carbon Resistors - Used on the ON/Button for the Red Dot Laser
+1 x [10K Ω Resistor ]- 1/4W 5% Carbon Resistors - Used on the ON/Button for the Red Dot Laser
 
-1 x [4-Pin Micro JST Cable](https://proptronix.co.uk/other_components/connectors/micro-jst-1-25mm-m-f "4-Pin Micro JST Cable") - (Male & female) For Connecting OLED Screen to DFRobot Beetle
+1 x [4-Pin Micro JST Cable] - (Male & female) For Connecting OLED Screen to DFRobot Beetle
 
-1 x [3-Pin Micro JST Cable](https://proptronix.co.uk/other_components/connectors/micro-jst-1-25mm-m-f "3-Pin Micro JST Cable") - (Male & female) For Connecting Red Dot Laser Switch to DFRobot Beetle
+1 x [3-Pin Micro JST Cable] - (Male & female) For Connecting Red Dot Laser Switch to DFRobot Beetle
 
-2 x [2-Pin Micro JST Cable](https://proptronix.co.uk/other_components/connectors/micro-jst-1-25mm-m-f "3-Pin Micro JST Cable") - (Male & female) For Connecting Red Dot Laser Diode to DFRobot Beetle & to supply 5V Power to the DFRobot Beetle
+2 x [2-Pin Micro JST Cable]( - (Male & female) For Connecting Red Dot Laser Diode to DFRobot Beetle & to supply 5V Power to the DFRobot Beetle
 
-3 x [M2 Slotted Cheese Head Machine Screws](https://proptronix.co.uk/accessories/screws-nuts-and-bolts/e-11-scope-front-screws "M2 Slotted Cheese Head Machine Screws") - For the Front of the Scope
+3 x [M2 Slotted Cheese Head Machine Screws] - For the Front of the Scope
 
-2 x [4x3mm Neodymium Magnets](https://proptronix.co.uk/other_components/magnets/blaster-scope-magnets "4x3mm Neodymium Magnets") - To Hold the Screen Holder in Place inside the Scope
+2 x [4x3mm Neodymium Magnets]( - To Hold the Screen Holder in Place inside the Scope
 
-1 x [30mm Round Glass Cabochon ](https://proptronix.co.uk/accessories/round-glass-cabochon "30mm Round Glass Cabochon ")- Used as a Magnifier Lens for the Scope Eye Piece
+1 x [30mm Round Glass Cabochon ]- Used as a Magnifier Lens for the Scope Eye Piece
 
 All parts listed above are available from my Online Shop , eBay, Amazon or AliExpress.
 
-I also sell an updated [E-11 Blaster Scope Electronics ](https://proptronix.co.uk/prop-electronics/blaster-scope-electronics-kit "E-11 Blaster Scope Electronics ")as a Self Build Kit in my Shop. It has changeable displays and improved code and also includes the specially designed STL Files for the Kit.
 
 ###  Software Required
 
@@ -82,7 +81,7 @@ SCTroniX V1.0 Arduino E-11 Scope Code:
 
 ###  Wiring Schematics
 
-![](https://galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_Wiring.png)
+![](https://proptronix.co.uk/GitHub/Blaster_Scope/GitHub_Scope_Wiring.png)
 
 ###  Programming Instructions
 
@@ -105,7 +104,7 @@ You should now have a functioning Blaster Scope
 ### 3D Print STL Files
 The download also includes a set of E-11 Blaster Scope 3D Printable STL Files. These are modified from the Free Files that are available from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert.
 
-![](https://www.galacticprops.co.uk/GitHub/Blaster_Scope/GitHub_Scope_4.png)
+![](https://proptronix.co.uk/GitHub/Blaster_Scope/GitHub_Scope_4.png)
 
 ###  Licence
 
